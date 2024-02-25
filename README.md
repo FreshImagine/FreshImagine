@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FreshImagine
 - 
-- 👀 I’m interested in sports, friends, meeting new people and traveling around the world 
+- 👀 I’m into in sports, gamne dev and partly controversal conversations
 - 
-- 🌱 I’m currently learning C#,C++ and Unreal Engine 5. Also I try introduce myself to the IT-World :-)
+- 🌱 Currently deepening C++ and UE5 knowledge. 
 -
 - 📫 How to reach me rafael@eyberg.net
 
