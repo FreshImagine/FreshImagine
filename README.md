@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @FreshImagine
+- 👋 Hello everyone, I’m @FreshImagine
 - 
-- 👀 I’m into in sports, gamne dev and partly controversal conversations
 - 
-- 🌱 Currently deepening C++ and UE5 knowledge. 
--
 - 📫 How to reach me rafael@eyberg.net
 
 <!---
